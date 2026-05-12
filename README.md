@@ -115,7 +115,7 @@ const thunder = {
 
 ## 🐍 Contribution Snake
 
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/small-thunder/small-thunder/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
